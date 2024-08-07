@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="972.672" height="729.504" viewBox="0 0 972.672 729.504">
+  <g id="ipad-wire" transform="translate(0 729.504) rotate(-90)">
+    <path id="Path_78" data-name="Path 78" d="M28.868,0H700.636A28.868,28.868,0,0,1,729.5,28.868V943.8a28.868,28.868,0,0,1-28.868,28.868H28.868A28.868,28.868,0,0,1,0,943.8V28.868A28.868,28.868,0,0,1,28.868,0Z" fill="#1d1d1d"/>
+    <rect id="Rectangle_16" data-name="Rectangle 16" width="697.012" height="880.018" rx="18.264" transform="translate(16.246 70.993)" fill="#fff"/>
+    <ellipse id="Ellipse_6" data-name="Ellipse 6" cx="23.416" cy="23.416" rx="23.416" ry="23.416" transform="translate(341.336 13.133)" fill="#fff"/>
+    <g id="Group_24" data-name="Group 24" transform="translate(20.118 76.59)">
+      <path id="Path_100" data-name="Path 100" d="M0,0Z" transform="translate(689.268 868.232) rotate(51.585)" fill="#73a1c2" opacity="0.03"/>
+      <path id="Path_86" data-name="Path 86" d="M0,0H1108.1V.949H0Z" transform="translate(0.744 0) rotate(51.585)" fill="#73a1c2" opacity="0.17"/>
+    </g>
+    <g id="Group_25" data-name="Group 25" transform="translate(20.378 76.385)">
+      <rect id="Rectangle_18" data-name="Rectangle 18" width="0.949" height="1108.103" transform="translate(688.004 0) rotate(38.381)" fill="#73a1c2" opacity="0.22"/>
+    </g>
+    <ellipse id="Ellipse_7" data-name="Ellipse 7" cx="4.228" cy="4.228" rx="4.228" ry="4.228" transform="translate(360.524 959.116)" fill="#fff"/>
+  </g>
+</svg>

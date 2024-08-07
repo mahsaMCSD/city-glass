@@ -1,0 +1,42 @@
+.menu {
+    background: var(--color-white);
+    height: 100vh;
+    width: 250px;
+    z-index: 5000;
+    opacity:0; 
+    position: fixed;
+    overflow-y: auto;
+    visibility: hidden;
+    transition: all 0.25s ease;
+    transform: translateX(50%);
+    
+  }
+  
+  .active {
+    opacity:1;
+    visibility: visible;
+    transition: all 0.25s ease;
+    transform: translateX(0);
+  }
+  .close-side-opened{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 400;
+    opacity: 1;
+    visibility: visible;
+    background-color: rgba(0,0,0,0.7);
+    transition: opacity .25s ease, visibility 0s ease .25s;
+  }
+  @keyframes fadeInRight {
+    0% {
+      opacity: 0;
+      left: 20%;
+    }
+    100% {
+      opacity: 1;
+      left: 0;
+    }
+  }

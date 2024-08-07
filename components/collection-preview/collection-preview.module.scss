@@ -1,0 +1,58 @@
+////////////////////////////////////////
+//SECURITY CUSTOMER
+
+.security_customer li:not(:last-child){
+    border-left: 1px solid var(--color-grey-light-1);
+}
+////////////////////////////////////////
+//PRODUCT LIST
+//HOVER IMG
+.hovereffect {
+    overflow: hidden;
+    position: relative;
+    cursor: default;
+}
+.hovereffect .overlay {
+    position: absolute;
+    bottom: 0;
+    height: 4.75em;
+    -webkit-transition: -webkit-transform 0.35s;
+    transition: transform 0.35s;
+    -webkit-transform: translate3d(0, 100%, 0);
+    transform: translate3d(0, 100%, 0);
+}
+
+.hovereffect .product_img {
+    display: block;
+    position: relative;
+    -webkit-transition: -webkit-transform 0.35s;
+    transition: transform 0.35s;
+}
+
+.hovereffect:hover .product_img {
+    -webkit-transform: translate3d(0, -20%, 0);
+    transform: translate3d(0, -20%, 0);
+}
+
+.hovereffect .shop_btn {
+    gap: 4px;
+}
+
+.hovereffect .shop_btn {
+    -webkit-transition: -webkit-transform 0.35s;
+    transition: transform 0.35s;
+    -webkit-transform: translate3d(0, 200%, 0);
+    transform: translate3d(0, 200%, 0);
+    visibility: visible;
+}
+
+.hovereffect:hover .overlay,
+.hovereffect:hover .shop_btn {
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+}
+
+.hovereffect:hover .shop_btn {
+    -webkit-transition-delay: 0.05s;
+    transition-delay: 0.05s;
+}

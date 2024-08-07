@@ -1,0 +1,19 @@
+//CAROUSEL INDICATOR
+.carousel-product .carousel-indicators{
+    // position:relative !important;
+    top: 27rem;
+    cursor: pointer;
+}
+.carousel-product .carousel-indicators li {
+    border-radius: 50%;
+    border: 1px solid #707070;
+    width: 6px;
+    height: 6px;
+    margin: 2rem 0.1rem;
+}
+
+.carousel-product .carousel-indicators .active {
+    background: #000;
+    width: 15px;
+    border-radius: 35%;
+}

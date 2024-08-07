@@ -1,0 +1,20 @@
+/////////////////////////////////////////@at-root
+//CARD BLUR
+.main-page-blur {
+  top: unset;
+  right: unset;
+  left: 0rem;
+  bottom: 6rem;
+  backdrop-filter: blur(0.5rem);
+}
+
+///////////////////////////////////////////////
+//BANNER SHOP
+.cg-shop-banner .card-img-overlay {
+  top: unset;
+  right: unset;
+  left: 13rem;
+  bottom: 5rem;
+  padding: 12rem;
+  backdrop-filter: blur(0.3rem);
+}

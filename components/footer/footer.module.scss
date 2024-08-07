@@ -1,0 +1,38 @@
+///////////////////////////////////////
+//FOOTER
+.map {
+    background-image: url(../../public/image/map.svg);
+    background-position: center;
+    max-width: 1920px;
+    height: 16rem;
+    background-repeat: no-repeat;
+    // background-size: contain;
+}
+.list-group-mb {
+    flex-wrap: wrap !important;
+}
+.footer_list li {
+    background: transparent;
+    color: var(--color-white);
+}
+.menu_footer_list {
+    flex-wrap: wrap;
+}
+.menu_footer_list li:not(:last-child),
+.menu_footer_list a {
+    border-left: 1px solid #fff;
+}
+
+@media screen and (max-width: 768px) {
+    .map {
+        background-position: unset;
+        height: unset;
+        
+    }
+    .map .content-box{
+        padding: 2rem !important;
+    }
+
+    
+
+}

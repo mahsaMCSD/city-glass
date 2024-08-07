@@ -1,0 +1,6 @@
+////////////////////////////////////////
+//SECURITY CUSTOMER
+
+.security_customer li:not(:last-child){
+    border-left: 1px solid var(--color-grey-light-1);
+}

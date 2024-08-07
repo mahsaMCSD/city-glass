@@ -1,0 +1,14 @@
+.cg-form {
+    p {
+        color: var(--color-pink);
+    }
+
+    p::before {
+        display: inline;
+        content: "⚠ ";
+    }
+ 
+    
+
+ 
+}

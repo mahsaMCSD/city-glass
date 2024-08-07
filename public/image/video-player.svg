@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="852.549" height="414.416" viewBox="0 0 852.549 414.416">
+  <g id="Group_77" data-name="Group 77" transform="translate(0 0)">
+    <g id="video-player" transform="translate(0 0)">
+      <g id="square">
+        <path id="Path_88" data-name="Path 88" d="M12.622,0H401.794a12.622,12.622,0,0,1,12.622,12.622V839.927a12.622,12.622,0,0,1-12.622,12.622H12.622A12.622,12.622,0,0,1,0,839.927V12.622A12.622,12.622,0,0,1,12.622,0Z" transform="translate(0 414.416) rotate(-90)" fill="#ededed"/>
+      </g>
+      <g id="play-circle-icon" transform="translate(384.295 165.262)">
+        <path id="play-circle-icon-2" data-name="play-circle-icon" d="M90.083,48a42.083,42.083,0,1,0,42.083,42.083A42.077,42.077,0,0,0,90.083,48Zm16.955,42.872L79.279,107.665a.9.9,0,0,1-1.356-.789V73.29a.9.9,0,0,1,1.356-.789l27.759,16.793A.927.927,0,0,1,107.038,90.872Z" transform="translate(-48 -48)"/>
+        <path id="play-icon" d="M128,96.967v34.808a.914.914,0,0,0,1.37.826l28.152-17.4a.975.975,0,0,0,0-1.641l-28.152-17.4A.905.905,0,0,0,128,96.967Z" transform="translate(-98.372 -72.2)" fill="#e8eff7"/>
+      </g>
+      <g id="seekbar" transform="translate(40.106 383.553)">
+        <path id="ios-play" d="M128,96.392v13.724a.36.36,0,0,0,.54.326l11.1-6.862a.385.385,0,0,0,0-.647l-11.1-6.862A.357.357,0,0,0,128,96.392Z" transform="translate(-128 -96.017)"/>
+        <g id="progress-bar" transform="translate(22.115 2.764)">
+          <rect id="Rectangle_22" data-name="Rectangle 22" width="750.298" height="7.602" rx="2" transform="translate(0 0)" fill="#fff"/>
+          <path id="Path_89" data-name="Path 89" d="M1.382,0h152.73a1.382,1.382,0,0,1,1.382,1.382V6.22A1.382,1.382,0,0,1,154.112,7.6H1.382A1.382,1.382,0,0,1,0,6.22V1.382A1.382,1.382,0,0,1,1.382,0Z" transform="translate(0 0)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+.page-item:first-child .page-link,.page-item:last-child .page-link {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;    
+
+}
+.page-link,.page-link:hover{
+    color: var(--color-primary);
+
+}
+.page-item.active .page-link{
+    background-color: var(--color-pink);
+    border-color: var(--color-pink);
+}

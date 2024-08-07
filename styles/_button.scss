@@ -1,0 +1,22 @@
+.btn{
+    font-size: 1.2rem;
+}
+.btn-pink{
+    color:#fff;
+    background-color:var(--color-pink);
+    border:var(--color-pink);
+}
+.btn-orange{
+    color:var(--color-primary);
+    background-color:var(--color-orange);
+    border:var(--color-orange);
+}
+.btn-sign-up{
+    font-size: 14px;
+    border-radius: 10px 0px 0px 10px;
+    padding-right: 10rem;
+    height: 4rem;
+    img{
+        height: 4rem;
+    }
+}
